@@ -1,0 +1,4 @@
+INDEX VERSION 1.127+/Users/GrizzlyBear/Documents/workspace/.metadata/.plugins/org.eclipse.jdt.core
+1320472939.index
+438441389.index
+2200650775.index

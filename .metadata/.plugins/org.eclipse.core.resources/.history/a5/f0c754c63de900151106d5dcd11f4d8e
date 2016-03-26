@@ -1,0 +1,15 @@
+package ClassNoObject;
+
+public class TestHouse {
+	
+	public static void main(String[]args) {
+		
+		House myHouse = new House ();
+		myHouse.livingRoom();
+		
+	Office myOffice = new Office();
+	System.out.println(myOffice.getrofficeName());
+	
+}
+
+}

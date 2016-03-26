@@ -1,0 +1,14 @@
+package hello;
+
+public class HelloWorld {
+
+	public static void main(String[] args) {
+		System.out.println("Hello Selenium");
+		int numb1 = 10;
+		int numb2 = 18;
+		int total = numb1 + numb2;
+		System.out.println (total);
+		
+	}
+
+}
